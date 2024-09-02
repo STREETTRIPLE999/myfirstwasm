@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WasmValidater",
   "resources": {
-    "hash": "sha256-ZkIqVVfWPkr6WqLkotm1QKdlhY8WgDcq7HqsYw0PVjo=",
+    "hash": "sha256-8VFYBw4LORIm/XaZMo/iVSKaDE5dsS+J3jPWFiJHjko=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.zlk5vzvhvi.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -59,7 +59,7 @@
       "System.Text.Json.wasm": "sha256-ynkl4CIliGOj0+/7yTuz0jRNB4sdoixNV9f1EykRwiY=",
       "System.Text.RegularExpressions.wasm": "sha256-GWk3CARNJ16q5EMkA1VKemHFNx2dIGTG46LiOLNx5i8=",
       "System.wasm": "sha256-ka1SPMSVGn53xDzeBa40FQCsprKEF+n+wpvvd1HyMNE=",
-      "WasmValidater.wasm": "sha256-49KLwDRw4tp51DgDB2CtVWhahAAsdp7+cpWid8u9ziQ="
+      "WasmValidater.wasm": "sha256-IByK6MksQJz9eSzQwmw9N31FXskSoHxOvGlzz1eM5h8="
     }
   },
   "cacheBootResources": true,
