@@ -1,0 +1,88 @@
+﻿
+div.outer {
+    width: 45rem !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4rem;
+}
+
+h1 {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+#TopDescription span {
+    color:red;
+}
+
+p.display_message {
+    color: red;
+    font-size: 1.2em;
+    font-weight: bold;
+    height: 1.5rem;
+    margin-left: 3%;
+    margin-bottom: 0.8rem;
+}
+
+#MyUserNew,
+#MyUserUpdate {
+    background-color: floralwhite;
+    width: fit-content;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 1.1em 0.3em;
+    margin-bottom: 0.8rem;
+}
+    th {
+        text-align: center;
+    }
+    th.user_id {
+        width: 8rem;
+    }
+    th.user_id {
+        width: 7.5rem;
+    }
+    th.family_name,
+    th.personal_name  {
+        width: 8rem;
+    }
+    th.age {
+        width: 4rem;
+    }
+    th.birthday {
+        width: 10rem;
+    }
+        td.birthday input,
+        td.age input {
+            text-align: center;
+        }
+
+form {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+    form > button {
+        display: inline-block;
+        width: 7.5rem;
+        padding-left: 0.3rem !important;
+        padding-right: 0.3rem !important;
+        margin-bottom: 1.4rem;
+    }
+        button.regist {
+            margin-left: 15%;
+            margin-right: 5%;
+        }
+        button.reset {
+            margin-right: 5%;
+        }
+        button.dataset {
+            width: 9rem !important;
+        }
+

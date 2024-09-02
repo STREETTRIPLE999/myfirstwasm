@@ -1,0 +1,91 @@
+﻿div.outer {
+    width: 49.5rem !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    font-size: 1.5em;
+}
+
+div.description {
+    margin-bottom: 0.7rem;
+}
+
+    div.description p {
+        margin-bottom: 0rem;
+    }
+
+    div.description em {
+        display: block;
+        width: fit-content;
+        margin: 0.2rem auto 0.3rem;
+        font-style:normal;
+        font-weight:bold;
+    }
+
+form {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5rem;
+}
+
+#TopDescription span {
+    color:red;
+}
+
+.display_message {
+    color: red;
+    font-size: 1.2em;
+    font-weight: bold;
+    height: 1.5rem;
+    margin-left: 3%;
+    margin-bottom: 1rem;
+}
+
+#MyUserTable {
+    background-color: floralwhite;
+    width: fit-content;
+    table-layout: fixed;
+    margin-bottom: 5rem;
+}
+    #MyUserTable th.col-1 {
+        width: 12rem;
+    }
+    #MyUserTable th.col-2,
+    #MyUserTable th.col-3 {
+        width: 11rem;
+    }
+    #MyUserTable th.col-4,
+    #MyUserTable th.col-5 {
+        width: 7.7rem;
+    }
+
+    #MyUserTable tr > td {
+        vertical-align: middle;
+        padding-left: 1.5rem;
+        padding-bottom: 0.3rem;
+    }
+
+        #MyUserTable td ::deep > input {
+            width: 95%;
+            display: inline-block;
+            margin-bottom: 0.3rem;
+        }
+
+        #MyUserTable td > button {
+            display: inline-block;
+            width: 5.7rem;
+            padding-left: 0.3rem !important;
+            padding-right: 0.3rem !important;
+        }
+
+
+
+
+
+
